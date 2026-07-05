@@ -1,0 +1,220 @@
+﻿Year,category,subcategory,product_name,cost,total_revenue,total_orders,category_avg_revenue,performance_tag
+2012,Accessories,Helmets,Sport-100 Helmet- Black,13,210,6,112,above average
+2012,Accessories,Bottles and Cages,Road Bottle Cage,3,81,9,112,below average
+2012,Accessories,Tires and Tubes,ML Mountain Tire,11,30,1,112,below average
+2012,Accessories,Tires and Tubes,ML Road Tire,9,50,2,112,below average
+2012,Accessories,Tires and Tubes,Mountain Tire Tube,2,15,3,112,below average
+2012,Accessories,Helmets,Sport-100 Helmet- Blue,13,350,10,112,above average
+2012,Accessories,Tires and Tubes,Road Tire Tube,1,28,7,112,below average
+2012,Accessories,Fenders,Fender Set - Mountain,8,110,5,112,below average
+2012,Accessories,Hydration Packs,Hydration Pack - 70 oz.,21,110,2,112,below average
+2012,Accessories,Tires and Tubes,HL Road Tire,12,132,4,112,above average
+2012,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,90,18,112,below average
+2012,Accessories,Tires and Tubes,HL Mountain Tire,13,140,4,112,above average
+2012,Accessories,Tires and Tubes,Touring Tire Tube,2,10,2,112,below average
+2012,Accessories,Tires and Tubes,Touring Tire,11,58,2,112,below average
+2012,Accessories,Tires and Tubes,LL Road Tire,8,105,5,112,below average
+2012,Accessories,Tires and Tubes,Patch Kit/8 Patches,1,8,4,112,below average
+2012,Accessories,Helmets,Sport-100 Helmet- Red,13,350,10,112,above average
+2012,Accessories,Bike Stands,All-Purpose Bike Stand,59,159,1,112,above average
+2012,Accessories,Bottles and Cages,Mountain Bottle Cage,4,110,11,112,below average
+2012,Bikes,Road Bikes,Road-250 Black- 58,1555,316912,145,116788,above average
+2012,Bikes,Road Bikes,Road-250 Red- 44,1519,346906,142,116788,above average
+2012,Bikes,Road Bikes,Road-650 Black- 52,487,43848,56,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 44,487,39150,50,116788,below average
+2012,Bikes,Road Bikes,Road-250 Red- 58,1555,376087,172,116788,above average
+2012,Bikes,Road Bikes,Road-550-W Yellow- 42,713,68000,68,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 48,487,47763,61,116788,below average
+2012,Bikes,Touring Bikes,Touring-3000 Yellow- 58,461,1484,2,116788,below average
+2012,Bikes,Road Bikes,Road-250 Black- 52,1555,378269,173,116788,above average
+2012,Bikes,Road Bikes,Road-350-W Yellow- 42,1083,5103,3,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Silver- 46,1266,377669,182,116788,above average
+2012,Bikes,Road Bikes,Road-250 Red- 48,1519,388437,159,116788,above average
+2012,Bikes,Road Bikes,Road-250 Black- 48,1555,310105,142,116788,above average
+2012,Bikes,Mountain Bikes,Mountain-500 Black- 40,295,540,1,116788,below average
+2012,Bikes,Road Bikes,Road-250 Red- 52,1519,322476,132,116788,above average
+2012,Bikes,Touring Bikes,Touring-2000 Blue- 46,755,2430,2,116788,below average
+2012,Bikes,Road Bikes,Road-650 Black- 58,487,45414,58,116788,below average
+2012,Bikes,Road Bikes,Road-750 Black- 44,344,1620,3,116788,below average
+2012,Bikes,Road Bikes,Road-650 Black- 48,487,33669,43,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Black- 46,1252,423570,206,116788,above average
+2012,Bikes,Touring Bikes,Touring-1000 Yellow- 50,1482,4768,2,116788,below average
+2012,Bikes,Touring Bikes,Touring-1000 Blue- 50,1482,2384,1,116788,below average
+2012,Bikes,Road Bikes,Road-550-W Yellow- 48,713,74240,74,116788,below average
+2012,Bikes,Road Bikes,Road-750 Black- 52,344,2160,4,116788,below average
+2012,Bikes,Road Bikes,Road-550-W Yellow- 38,713,71000,71,116788,below average
+2012,Bikes,Touring Bikes,Touring-2000 Blue- 60,755,1215,1,116788,below average
+2012,Bikes,Road Bikes,Road-750 Black- 48,344,1080,2,116788,below average
+2012,Bikes,Road Bikes,Road-350-W Yellow- 48,1083,1701,1,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 60,487,28188,36,116788,below average
+2012,Bikes,Road Bikes,Road-550-W Yellow- 44,713,78120,78,116788,below average
+2012,Bikes,Touring Bikes,Touring-2000 Blue- 50,755,1215,1,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Black- 42,1252,392343,191,116788,above average
+2012,Bikes,Road Bikes,Road-650 Black- 44,487,32886,42,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Black- 38,1252,342921,167,116788,above average
+2012,Bikes,Road Bikes,Road-750 Black- 58,344,1080,2,116788,below average
+2012,Bikes,Touring Bikes,Touring-1000 Blue- 46,1482,4768,2,116788,below average
+2012,Bikes,Road Bikes,Road-650 Black- 62,487,33669,43,116788,below average
+2012,Bikes,Touring Bikes,Touring-3000 Blue- 54,461,742,1,116788,below average
+2011,Bikes,Road Bikes,Road-250 Black- 52,1555,4364,2,191218,below average
+2011,Bikes,Road Bikes,Road-550-W Yellow- 42,713,1000,1,191218,below average
+2011,Bikes,Road Bikes,Road-250 Red- 48,1519,7329,3,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-200 Black- 46,1252,2049,1,191218,below average
+2011,Bikes,Road Bikes,Road-250 Red- 58,1555,6546,3,191218,below average
+2011,Bikes,Road Bikes,Road-150 Red- 52,2171,1076978,301,191218,above average
+2011,Bikes,Mountain Bikes,Mountain-100 Silver- 48,1912,122400,36,191218,below average
+2011,Bikes,Road Bikes,Road-250 Black- 58,1555,2182,1,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Silver- 42,1912,142800,42,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-200 Black- 38,1252,4098,2,191218,below average
+2011,Bikes,Road Bikes,Road-650 Red- 44,487,15378,22,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Black- 42,1898,151875,45,191218,below average
+2011,Bikes,Road Bikes,Road-250 Red- 52,1519,2443,1,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Black- 48,1898,189000,56,191218,below average
+2011,Bikes,Road Bikes,Road-150 Red- 62,2171,1195052,334,191218,above average
+2011,Bikes,Road Bikes,Road-650 Black- 62,487,14679,21,191218,below average
+2011,Bikes,Road Bikes,Road-250 Red- 44,1519,4886,2,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Silver- 44,1912,156400,46,191218,below average
+2011,Bikes,Road Bikes,Road-650 Black- 44,487,14679,21,191218,below average
+2011,Bikes,Road Bikes,Road-150 Red- 48,2171,1198630,335,191218,above average
+2011,Bikes,Road Bikes,Road-250 Black- 44,1555,6546,3,191218,below average
+2011,Bikes,Road Bikes,Road-650 Red- 52,487,14064,20,191218,below average
+2011,Bikes,Road Bikes,Road-650 Black- 52,487,23067,33,191218,below average
+2011,Bikes,Road Bikes,Road-650 Red- 58,487,13281,19,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Silver- 38,1912,193800,57,191218,above average
+2011,Bikes,Road Bikes,Road-650 Red- 48,487,18957,27,191218,below average
+2011,Bikes,Road Bikes,Road-650 Black- 58,487,12582,18,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-100 Black- 44,1898,202500,60,191218,above average
+2011,Bikes,Road Bikes,Road-650 Black- 48,487,11883,17,191218,below average
+2011,Bikes,Mountain Bikes,Mountain-200 Silver- 42,1266,2071,1,191218,below average
+2011,Bikes,Road Bikes,Road-150 Red- 56,2171,1051932,294,191218,above average
+2011,Bikes,Road Bikes,Road-550-W Yellow- 38,713,1000,1,191218,below average
+2011,Bikes,Road Bikes,Road-650 Black- 60,487,19572,28,191218,below average
+2011,Bikes,Road Bikes,Road-650 Red- 60,487,11883,17,191218,below average
+2011,Bikes,Road Bikes,Road-150 Red- 44,2171,1001840,280,191218,above average
+2011,Bikes,Mountain Bikes,Mountain-100 Black- 38,1898,165375,49,191218,below average
+2011,Bikes,Road Bikes,Road-650 Red- 62,487,11967,17,191218,below average
+2012,Clothing,Jerseys,Short-Sleeve Classic Jersey- L,42,108,2,58,above average
+2012,Clothing,Gloves,Half-Finger Gloves- S,9,24,1,58,below average
+2012,Clothing,Gloves,Half-Finger Gloves- M,9,24,1,58,below average
+2012,Clothing,Jerseys,Short-Sleeve Classic Jersey- S,42,54,1,58,below average
+2012,Clothing,Jerseys,Short-Sleeve Classic Jersey- M,42,54,1,58,below average
+2012,Clothing,Jerseys,Long-Sleeve Logo Jersey- L,38,150,3,58,above average
+2012,Clothing,Gloves,Half-Finger Gloves- L,9,24,1,58,below average
+2012,Clothing,Socks,Racing Socks- L,3,18,2,58,below average
+2012,Clothing,Caps,AWC Logo Cap,7,72,8,58,above average
+2012,Clothing,Vests,Classic Vest- S,24,64,1,58,above average
+2012,Clothing,Jerseys,Long-Sleeve Logo Jersey- M,38,50,1,58,below average
+2013,Accessories,Bottles and Cages,Mountain Bottle Cage,4,19530,1944,30337,below average
+2013,Accessories,Tires and Tubes,Patch Kit/8 Patches,1,6048,3024,30337,below average
+2013,Accessories,Hydration Packs,Hydration Pack - 70 oz.,21,38940,708,30337,above average
+2013,Accessories,Helmets,Sport-100 Helmet- Red,13,75145,2147,30337,above average
+2013,Accessories,Cleaners,Bike Wash - Dissolver,3,6960,869,30337,below average
+2013,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,20425,4080,30337,below average
+2013,Accessories,Tires and Tubes,LL Mountain Tire,9,20125,803,30337,below average
+2013,Accessories,Fenders,Fender Set - Mountain,8,44484,2022,30337,above average
+2013,Accessories,Bottles and Cages,Road Bottle Cage,3,15237,1693,30337,below average
+2013,Accessories,Bike Stands,All-Purpose Bike Stand,59,37683,237,30337,above average
+2012,Bikes,Road Bikes,Road-550-W Yellow- 40,713,68120,68,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Silver- 38,1266,371954,179,116788,above average
+2012,Bikes,Mountain Bikes,Mountain-500 Silver- 44,308,565,1,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-400-W Silver- 40,420,769,1,116788,below average
+2012,Bikes,Road Bikes,Road-250 Black- 44,1555,279818,128,116788,above average
+2012,Bikes,Road Bikes,Road-350-W Yellow- 40,1083,1701,1,116788,below average
+2012,Bikes,Touring Bikes,Touring-1000 Blue- 60,1482,2384,1,116788,below average
+2012,Bikes,Mountain Bikes,Mountain-200 Silver- 42,1266,352817,170,116788,above average
+2012,Bikes,Road Bikes,Road-650 Black- 60,487,37584,48,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 62,487,45414,58,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 58,487,43065,55,116788,below average
+2012,Bikes,Road Bikes,Road-650 Red- 52,487,31320,40,116788,below average
+2013,Clothing,Vests,Classic Vest- L,24,11968,187,16187,below average
+2013,Clothing,Shorts,Women's Mountain Shorts- M,26,23380,334,16187,above average
+2013,Clothing,Vests,Classic Vest- M,24,11840,185,16187,below average
+2013,Clothing,Shorts,Women's Mountain Shorts- L,26,23800,340,16187,above average
+2013,Clothing,Jerseys,Long-Sleeve Logo Jersey- XL,38,19850,396,16187,above average
+2013,Clothing,Caps,AWC Logo Cap,7,18891,2099,16187,above average
+2013,Clothing,Vests,Classic Vest- S,24,10368,159,16187,below average
+2013,Clothing,Gloves,Half-Finger Gloves- M,9,11376,474,16187,below average
+2013,Clothing,Jerseys,Short-Sleeve Classic Jersey- S,42,21384,396,16187,above average
+2013,Clothing,Gloves,Half-Finger Gloves- L,9,10248,427,16187,below average
+2013,Clothing,Jerseys,Long-Sleeve Logo Jersey- L,38,21550,430,16187,above average
+2013,Clothing,Shorts,Women's Mountain Shorts- S,26,20230,289,16187,above average
+2013,Clothing,Jerseys,Short-Sleeve Classic Jersey- M,42,20790,385,16187,above average
+2013,Clothing,Gloves,Half-Finger Gloves- S,9,11064,461,16187,below average
+2013,Clothing,Socks,Racing Socks- M,3,2529,281,16187,below average
+2013,Clothing,Jerseys,Short-Sleeve Classic Jersey- L,42,19764,366,16187,above average
+2013,Clothing,Jerseys,Long-Sleeve Logo Jersey- S,38,20350,407,16187,above average
+2013,Clothing,Jerseys,Short-Sleeve Classic Jersey- XL,42,21168,392,16187,above average
+2013,Clothing,Jerseys,Long-Sleeve Logo Jersey- M,38,20850,417,16187,above average
+2013,Clothing,Socks,Racing Socks- L,3,2340,260,16187,below average
+2013,Accessories,Helmets,Sport-100 Helmet- Blue,13,71050,2029,30337,above average
+2013,Accessories,Tires and Tubes,Road Tire Tube,1,8888,2222,30337,below average
+2013,Accessories,Tires and Tubes,Touring Tire,11,25607,883,30337,below average
+2013,Accessories,Tires and Tubes,Mountain Tire Tube,2,14620,2923,30337,below average
+2013,Accessories,Tires and Tubes,HL Mountain Tire,13,46935,1340,30337,above average
+2013,Accessories,Tires and Tubes,HL Road Tire,12,26532,804,30337,below average
+2013,Accessories,Tires and Tubes,ML Road Tire,9,22275,891,30337,below average
+2013,Accessories,Helmets,Sport-100 Helmet- Black,13,69895,1997,30337,above average
+2013,Accessories,Tires and Tubes,LL Road Tire,8,20622,982,30337,below average
+2013,Accessories,Tires and Tubes,Touring Tire Tube,2,7010,1402,30337,below average
+2013,Accessories,Bike Racks,Hitch Rack - 4-Bike,45,36840,307,30337,above average
+2013,Accessories,Tires and Tubes,ML Mountain Tire,11,32580,1086,30337,above average
+2013,Bikes,Mountain Bikes,Mountain-500 Silver- 44,308,21470,38,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Black- 48,295,30240,56,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-200 Silver- 42,1266,902480,389,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-500 Silver- 42,308,25425,45,255895,below average
+2013,Bikes,Road Bikes,Road-250 Black- 44,1555,342020,140,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-500 Black- 52,295,22140,41,255895,below average
+2013,Bikes,Touring Bikes,Touring-1000 Yellow- 54,1482,376672,158,255895,above average
+2013,Bikes,Touring Bikes,Touring-1000 Yellow- 46,1482,410048,172,255895,above average
+2013,Bikes,Touring Bikes,Touring-1000 Blue- 60,1482,348064,146,255895,above average
+2013,Bikes,Touring Bikes,Touring-3000 Yellow- 44,461,43778,59,255895,below average
+2013,Bikes,Touring Bikes,Touring-3000 Blue- 50,461,35616,48,255895,below average
+2013,Bikes,Touring Bikes,Touring-3000 Blue- 62,461,47488,64,255895,below average
+2013,Bikes,Road Bikes,Road-550-W Yellow- 44,713,234080,209,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-400-W Silver- 40,420,97663,127,255895,below average
+2013,Bikes,Road Bikes,Road-350-W Yellow- 40,1083,416745,245,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-400-W Silver- 42,420,99201,129,255895,below average
+2013,Bikes,Road Bikes,Road-750 Black- 44,344,192780,357,255895,below average
+2013,Bikes,Touring Bikes,Touring-3000 Blue- 58,461,42294,57,255895,below average
+2013,Bikes,Touring Bikes,Touring-3000 Blue- 44,461,39326,53,255895,below average
+2013,Bikes,Touring Bikes,Touring-2000 Blue- 54,755,106920,88,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Silver- 48,308,28250,50,255895,below average
+2013,Bikes,Touring Bikes,Touring-1000 Yellow- 50,1482,355216,149,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-200 Silver- 38,1266,967440,417,255895,above average
+2013,Bikes,Road Bikes,Road-550-W Yellow- 48,713,209440,187,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Black- 42,295,26460,49,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-200 Black- 46,1252,947835,413,255895,above average
+2013,Bikes,Road Bikes,Road-250 Black- 48,1555,381108,156,255895,above average
+2013,Bikes,Touring Bikes,Touring-2000 Blue- 60,755,97200,80,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-200 Black- 42,1252,970785,423,255895,above average
+2013,Bikes,Touring Bikes,Touring-2000 Blue- 50,755,127575,105,255895,below average
+2013,Bikes,Road Bikes,Road-750 Black- 48,344,194940,361,255895,below average
+2013,Bikes,Road Bikes,Road-350-W Yellow- 48,1083,392931,231,255895,above average
+2013,Bikes,Touring Bikes,Touring-2000 Blue- 46,755,115425,95,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-200 Black- 38,1252,945540,412,255895,above average
+2013,Bikes,Touring Bikes,Touring-1000 Yellow- 60,1482,333760,140,255895,above average
+2013,Bikes,Road Bikes,Road-750 Black- 58,344,179280,332,255895,below average
+2013,Bikes,Road Bikes,Road-550-W Yellow- 38,713,221760,198,255895,below average
+2013,Bikes,Road Bikes,Road-550-W Yellow- 40,713,221760,198,255895,below average
+2013,Bikes,Touring Bikes,Touring-1000 Blue- 54,1482,381440,160,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-500 Black- 44,295,31320,58,255895,below average
+2013,Bikes,Touring Bikes,Touring-1000 Blue- 46,1482,417200,175,255895,above average
+2013,Bikes,Touring Bikes,Touring-3000 Yellow- 50,461,43778,59,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Silver- 40,308,25425,45,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Black- 40,295,25380,47,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-500 Silver- 52,308,27120,48,255895,below average
+2013,Bikes,Road Bikes,Road-250 Black- 58,1555,302932,124,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-400-W Silver- 46,420,106122,138,255895,below average
+2013,Bikes,Mountain Bikes,Mountain-400-W Silver- 38,420,113812,148,255895,below average
+2013,Bikes,Road Bikes,Road-250 Black- 52,1555,351792,144,255895,above average
+2013,Bikes,Road Bikes,Road-750 Black- 52,344,206280,382,255895,below average
+2013,Bikes,Touring Bikes,Touring-1000 Blue- 50,1482,355216,149,255895,above average
+2013,Bikes,Mountain Bikes,Mountain-200 Silver- 46,1266,921040,397,255895,above average
+2013,Bikes,Road Bikes,Road-350-W Yellow- 44,1083,367416,216,255895,above average
+2013,Bikes,Road Bikes,Road-550-W Yellow- 42,713,265440,237,255895,above average
+2013,Bikes,Touring Bikes,Touring-3000 Blue- 54,461,40068,54,255895,below average
+2013,Bikes,Road Bikes,Road-350-W Yellow- 42,1083,394632,232,255895,above average
+2013,Bikes,Touring Bikes,Touring-3000 Yellow- 62,461,37100,50,255895,below average
+2013,Bikes,Touring Bikes,Touring-3000 Yellow- 54,461,35616,48,255895,below average
+2013,Bikes,Road Bikes,Road-250 Red- 58,1555,320033,131,255895,above average
+2013,Bikes,Touring Bikes,Touring-3000 Yellow- 58,461,33390,45,255895,below average
