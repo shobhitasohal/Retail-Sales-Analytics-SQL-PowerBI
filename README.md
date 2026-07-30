@@ -1,6 +1,6 @@
 # Retail Mart Analytics
 
-An end-to-end SQL analytics project transforming three years of raw retail transactional data into KPIs, customer segments, and product insights — surfaced through an interactive three-page Power BI dashboard.
+An end-to-end SQL analytics project transforming three years of raw retail transactional data into KPIs, customer segments, and product insights surfaced through an interactive three-page Power BI dashboard.
 
 **Tools used:** Microsoft SQL Server (SQL) · Power BI
 
@@ -64,12 +64,12 @@ Year and Product Category slicers enable dynamic cross-filtering across all thre
 **Customer Insights**
 - 9,778 customers (54.4%) are One-Time Buyers — the single largest retention opportunity identified for targeted re-engagement campaigns
 - 6,228 Active customers generating repeat revenue — highest-value segment for loyalty and upsell programs
-- Age group 30–44 drives the most revenue ($15.7M combined across genders) — primary target demographic for marketing investment
+- Age group 30–44 drives the most revenue ($15.7M combined across genders). Primary target demographic for marketing investment
 - 1,969 churned customers (1,555 Churned One-Time and 414 Churned) — candidates for win-back campaigns
 
 **Product Insights**
 - 76 products tagged Above Average and 143 Below Average — enabling targeted portfolio rationalization decisions
-- Premium products (above $1,500) grew from 13 to 63 in the portfolio between 2011 and 2013 — the fastest-growing cost segment
+- Premium products (above $1,500) grew from 13 to 63 in the portfolio between 2011 and 2013 (the fastest-growing cost segment)
 - Mountain-200 Silver-38 is the top individual product with 596 orders and $1.34M in revenue
 
 ---
