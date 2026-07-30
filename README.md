@@ -68,7 +68,7 @@ Year and Product Category slicers enable dynamic cross-filtering across all thre
 - 1,969 churned customers (1,555 Churned One-Time and 414 Churned) — candidates for win-back campaigns
 
 **Product Insights**
-- 76 products tagged Above Average and 143 Below Average — enabling targeted portfolio rationalization decisions
+- 76 products tagged Above Average and 143 Below Average, enabling targeted portfolio rationalization decisions
 - Premium products (above $1,500) grew from 13 to 63 in the portfolio between 2011 and 2013 (the fastest-growing cost segment)
 - Mountain-200 Silver-38 is the top individual product with 596 orders and $1.34M in revenue
 
