@@ -41,14 +41,17 @@ The analysis was structured across four phases in Microsoft SQL Server:
 **Page 1 — Executive Overview**
 
 > Total Revenue ($29.3M) · Total Orders (58.4K) · Total Customers (18K) · Avg Order Value ($69.4K) · Revenue by Year with 3-Month Moving Average · Revenue Share by Category · YoY Revenue by Category
+![Executive Overview](images/retail_mart_executive_overview.png)
 
 **Page 2 — Customer Analysis**
 
 > Customer Retention Funnel · Lifetime Spend vs Order Frequency · Customer Profiles Ranked by Total Spend · Customer Spend by Age and Gender
+![Customer Analysis](images/retail_mart_customer_analysis.png)
 
 **Page 3 — Product Performance**
 
 > Product Performance vs Category Average · Sub-Category Revenue Contribution · Product Portfolio by Cost Segment
+![Product Performance](images/retail_mart_product_performance.png)
 
 Year and Product Category slicers enable dynamic cross-filtering across all three pages.
 
